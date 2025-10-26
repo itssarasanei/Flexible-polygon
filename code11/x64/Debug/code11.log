@@ -1,0 +1,5 @@
+﻿  code11.cpp
+E:\university\mehr 1402\albert\11\code11\code11.cpp(21,57): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+E:\university\mehr 1402\albert\11\code11\code11.cpp(25,57): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+E:\university\mehr 1402\albert\11\code11\code11.cpp(29,15): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  code11.vcxproj -> E:\university\mehr 1402\albert\11\code11\x64\Debug\code11.exe

@@ -1,0 +1,6 @@
+E:\university\mehr 1402\albert\11\code11\x64\Release\code11.vcxproj.CopyComplete
+E:\university\mehr 1402\albert\11\code11\x64\Release\code11.exe
+E:\university\mehr 1402\albert\11\code11\x64\Release\freeglut.dll
+E:\university\mehr 1402\grafic\albert\11\code11\x64\Release\code11.exe
+E:\a university\mehr 1402\albert\11\code11\x64\Release\code11.exe
+D:\a university\mehr 1402\albert\11\code11\x64\Release\code11.exe
